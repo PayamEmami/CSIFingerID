@@ -5,7 +5,7 @@ apt-get update -y && apt-get install -y --no-install-recommends wget ca-certific
 
 # prepare test input files
 mkdir /tmp/testfiles
-wget -O /tmp/testfiles/test_case_candidates.txt https://github.com/phnmnl/container-fingerid/raw/develop/testfiles/2500_47.4328704_175.0237_.txt
+wget -O /tmp/testfiles/2500_47.4328704_175.0237_.txt https://github.com/phnmnl/container-fingerid/raw/develop/testfiles/2500_47.4328704_175.0237_.txt
 
 
 # perform test
