@@ -1,7 +1,7 @@
 FROM container-registry.phenomenal-h2020.eu/phnmnl/rbase:dev_v3.4.1-2xenial0_cv0.2.14
 
-LABEL software.version=201604
-LABEL version=0.1
+LABEL software.version=4.0
+LABEL version=4.0
 LABEL software=CSIFingerID
 
 MAINTAINER PhenoMeNal-H2020 Project ( phenomenal-h2020-users@googlegroups.com )
